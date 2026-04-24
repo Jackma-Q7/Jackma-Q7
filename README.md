@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Welcome to My Digital Space
 
 <div align="center">
@@ -76,3 +77,21 @@ I'm always excited to discuss tech, collaborate on projects, or just chat about 
 *"Code is poetry written in logic"* ✨
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+**Jackma-Q7/Jackma-Q7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> e57e28974ec32fce08b769b37a7e5c8ec5fc67c4
