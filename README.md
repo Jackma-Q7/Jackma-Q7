@@ -1,55 +1,55 @@
-<<<<<<< HEAD
-# 👋 Welcome to My Digital Space
+# 欢迎来到我的数字空间
 
 <div align="center">
 
-### 💫 Full-Stack Developer | Problem Solver | Code Enthusiast
+### 嵌入式全栈开发者 | 视觉感知算法菜鸟 | 机器人爱好者
 
-*Crafting elegant solutions to complex problems, one line of code at a time*
+*用代码构建简洁、可靠且有价值的解决方案*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 关于我
 
-I'm a passionate developer who thrives at the intersection of **innovation** and **clean code**. With a deep love for building scalable applications and exploring cutting-edge technologies, I transform ideas into impactful digital solutions.
+我是一名热爱技术与工程实践的开发者，关注 **创新想法** 与 **清晰代码** 的结合。  
+我喜欢构建可扩展的应用，探索新技术，并将想法落地为真正可用的数字产品。
 
-### 💼 What I Do
+### 我在做什么
 
-- 🔧 **Full-Stack Development** - From frontend interfaces to backend systems
-- 🎯 **Problem Solving** - Breaking down complex challenges into elegant solutions  
-- 📚 **Continuous Learning** - Always exploring new frameworks, tools, and best practices
-- 🤝 **Collaboration** - Building great things together with talented teams
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-`JavaScript` `TypeScript` `Python` `Java` `SQL`
-
-**Frontend:**
-`React` `Vue.js` `HTML5` `CSS3` `Tailwind CSS`
-
-**Backend:**
-`Node.js` `Express` `Django` `PostgreSQL` `MongoDB`
-
-**Tools & Platforms:**
-`Git` `Docker` `VS Code` `AWS` `Linux`
+- **全栈开发**：从MCU开发到Linux，关注完整产品体验
+- **问题拆解**：将复杂需求拆分为清晰、可执行的技术方案
+- **持续学习**：持续探索新的框架、工具和工程最佳实践
+- **协作共创**：与团队一起交付稳定、可维护、有价值的项目
 
 ---
 
-## 📈 Current Focus
+## 技术栈
 
-- 🔭 Building innovative projects that make a difference
-- 🌱 Mastering new technologies and design patterns
-- 👯 Open to collaborating on interesting projects
-- 💡 Sharing knowledge and contributing to the open-source community
+**编程语言：**  
+`C/C++` `Python` `Verilog` `HDL` `汇编`
+
+**智能体：**  
+`ROS1/ROS2` `RT-DETR` `pytorch` `Gazebo` `Navigation`
+
+**硬件：**  
+`ESP32` `STM32` `树莓派` `RK3588` `FPGA`
+
+**工具与平台：**  
+`Git` `Docker` `VS Code` `Codex` `Linux`
 
 ---
 
-## 📊 GitHub Statistics
+## 当前关注
+
+- 视觉识别算法和跟踪算法改进
+- 学习Linux嵌入式
+- 寻找有意思的项目合作机会
+- 分享技术经验，参与开源社区
+
+---
+
+## GitHub 数据
 
 <div align="center">
 
@@ -59,39 +59,18 @@ I'm a passionate developer who thrives at the intersection of **innovation** and
 
 ---
 
-## 💬 Let's Connect
+## 联系我
 
-I'm always excited to discuss tech, collaborate on projects, or just chat about code!
+欢迎交流技术、项目合作，或者一起聊聊代码与产品。
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn](#)
-- 🐦 **Twitter:** [@YourHandle](#)
-- 🌐 **Portfolio:** [Your Website](#)
+- **Email：** [jackmaa@126.com]
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star some repositories!
+### 如果你对我的项目感兴趣，欢迎为仓库点 Star。
 
-*"Code is poetry written in logic"* ✨
+*"代码是用逻辑写成的诗。"*
 
 </div>
-=======
-## Hi there 👋
-
-<!--
-**Jackma-Q7/Jackma-Q7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> e57e28974ec32fce08b769b37a7e5c8ec5fc67c4
