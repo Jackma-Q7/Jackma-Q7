@@ -1,76 +1,54 @@
-# 👋 欢迎来到我的数字空间
+# 👋 你好，我是 Jack Ma
 
 <div align="center">
 
-### 💫 嵌入式全栈开发者 | 视觉感知算法菜鸟 | 机器人爱好者
+### 嵌入式全栈开发者 · 固件工程师 · 机器人爱好者
 
-*✨ 用代码构建简洁、可靠且有价值的解决方案*
+用代码构建简洁、可靠且有价值的解决方案。
+
+<br />
+
+`MCU` → `RTOS` → `Linux` → `Embedded AI` → `Robotics`
 
 </div>
 
 ---
 
-## 🚀 关于我
+## 🎓 教育经历
 
-我是一名热爱技术与工程实践的开发者，关注 **创新想法** 与 **清晰代码** 的结合。  
-我喜欢构建可扩展的应用，探索新技术，并将想法落地为真正可用的数字产品。
+| 时间 | 学校 | 专业 | 学位 |
+| :--- | :--- | :--- | :--- |
+| 2020 – 2024 | 重庆邮电大学 | 微电子科学与工程 | 学士 |
+| 2024 – 2027 | 重庆邮电大学 | 集成电路工程 | 硕士 |
 
-### 💼 我在做什么
+## 🛠️ 项目经历
 
-- 🔧 **全栈开发**：从 MCU 开发到 Linux，关注完整产品体验
-- 🎯 **问题拆解**：将复杂需求拆分为清晰、可执行的技术方案
-- 📚 **持续学习**：持续探索新的框架、工具和工程最佳实践
-- 🤝 **协作共创**：与团队一起交付稳定、可维护、有价值的项目
+`2026.05 – 2026.07` · CQUPT × Dima [多传感器同步与标定](https://github.com/Jackma-Q7/Sensors)
 
----
 
-## 🛠️ 技术栈
 
-**💻 编程语言：**  
-`C/C++` `Python` `Verilog` `HDL` `汇编`
+`2025.09 – 2026.04` · XbotPark [建筑外立面检测机器人](https://github.com/Jackma-Q7/Xbotpark)
 
-**🤖 智能体：**  
-`ROS1/ROS2` `RT-DETR` `PyTorch` `Gazebo` `Navigation`
 
-**🔩 硬件：**  
-`ESP32` `STM32` `树莓派` `RK3588` `FPGA`
 
-**🧰 工具与平台：**  
-`Git` `Docker` `VS Code` `Codex` `Linux`
+`2025.01 – 2025.05` · CQUPT [基于 RK3588 加速视觉处理](https://github.com/Jackma-Q7/RK3588-YOLO)
 
----
 
-## 📈 当前关注
 
-- 👁️ 视觉识别算法和跟踪算法改进
-- 🌱 学习 Linux 嵌入式开发
-- 👯 寻找有意思的项目合作机会
-- 💡 分享技术经验，参与开源社区
-
----
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackma-Q7&show_icons=true&theme=radical)
-
-</div>
+`2022.10 – 2022.12` · CQUPT [基于 FPGA 的多功能温湿度电子钟](https://github.com/Jackma-Q7/Smart_Clock)
 
 ---
 
 ## 💬 联系我
 
-欢迎交流技术、项目合作，或者一起聊聊代码与产品。
+欢迎交流技术与项目合作。
 
-- 📧 **Email：** [jackmaa@126.com](mailto:jackmaa@126.com)
-
----
+📧 [jackmaa@126.com](mailto:jackmaa@126.com)
 
 <div align="center">
 
-### ⭐ 如果你对我的项目感兴趣，欢迎为仓库点 Star。
+⭐ 如果你对我的项目感兴趣，欢迎点亮 Star。
 
-*"代码是用逻辑写成的诗。"* ✨
+<sub>“代码是用逻辑写成的诗。”</sub>
 
 </div>
