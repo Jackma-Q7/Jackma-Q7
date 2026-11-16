@@ -35,6 +35,12 @@
 
 ---
 
+## 🔋 技术栈
+
+`2020 – 2024 硬件  `: FPGA、Verilog、电路设计、半导体、MOSFET
+
+`2024 – 2027 机器人`: C/CPP、ROS2、ARM、RTOS、Liunx、CNN、Transformer
+
 ## 💬 联系我
 
 欢迎交流技术与项目合作。
@@ -43,8 +49,3 @@
 
 <div align="center">
 
-⭐ 如果你对我的项目感兴趣，欢迎点亮 Star。
-
-<sub>“代码是用逻辑写成的诗。”</sub>
-
-</div>
